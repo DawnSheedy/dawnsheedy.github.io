@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dawn-website/static/css/main.3db10619.chunk.css",
+    "main.js": "/dawn-website/static/js/main.58c61f27.chunk.js",
+    "main.js.map": "/dawn-website/static/js/main.58c61f27.chunk.js.map",
+    "runtime-main.js": "/dawn-website/static/js/runtime-main.ade78cd3.js",
+    "runtime-main.js.map": "/dawn-website/static/js/runtime-main.ade78cd3.js.map",
+    "static/css/2.29ff26d5.chunk.css": "/dawn-website/static/css/2.29ff26d5.chunk.css",
+    "static/js/2.6e192b87.chunk.js": "/dawn-website/static/js/2.6e192b87.chunk.js",
+    "static/js/2.6e192b87.chunk.js.map": "/dawn-website/static/js/2.6e192b87.chunk.js.map",
+    "index.html": "/dawn-website/index.html",
+    "precache-manifest.a60744212675c0579b6213d2748365ff.js": "/dawn-website/precache-manifest.a60744212675c0579b6213d2748365ff.js",
+    "service-worker.js": "/dawn-website/service-worker.js",
+    "static/css/2.29ff26d5.chunk.css.map": "/dawn-website/static/css/2.29ff26d5.chunk.css.map",
+    "static/css/main.3db10619.chunk.css.map": "/dawn-website/static/css/main.3db10619.chunk.css.map",
+    "static/js/2.6e192b87.chunk.js.LICENSE.txt": "/dawn-website/static/js/2.6e192b87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ade78cd3.js",
+    "static/css/2.29ff26d5.chunk.css",
+    "static/js/2.6e192b87.chunk.js",
+    "static/css/main.3db10619.chunk.css",
+    "static/js/main.58c61f27.chunk.js"
+  ]
+}
